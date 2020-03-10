@@ -19,7 +19,7 @@ while ans:
         print ("It is certain.")
     
     elif answers == 2:
-        print ("Outlook good");;;;;
+        print ("Outlook good")
     
     elif answers == 3:
         print ("You may rely on it")
